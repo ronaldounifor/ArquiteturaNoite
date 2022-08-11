@@ -1,3 +1,5 @@
+package Arquitetura.src.email;
+
 public class GerenciamentoDeEstoque {
     //Criar classe Produto
     public void adicionaProduto() {}
